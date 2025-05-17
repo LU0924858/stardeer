@@ -1,0 +1,1 @@
+// JavaScript 功能模拟
